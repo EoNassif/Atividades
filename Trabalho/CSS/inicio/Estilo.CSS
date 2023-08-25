@@ -12,7 +12,7 @@ p.titulo{
     color:brown;
     text-align: center;
     font-size: 70px;
-    text-shadow: 4px 5px 5px black;
+    text-shadow: 4px 5px 5px red;
         /* lateral vertical esfumacear cor */
 }
 p.ass{
