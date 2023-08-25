@@ -1,0 +1,32 @@
+body{
+    background-color: #663C33;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blanchedalmond;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: overline underline;
+}
+.titulo:hover{
+    text-decoration: none;
+}
+p{
+    color:blanchedalmond;
+    font-size: 20px;
+    text-align: justify;
+}
+.semfundo{
+    width: 280px;
+    height: auto;
+}
+.fundo{
+    text-align: center;
+}
+.link{
+    width: 100px;
+    height: auto;
+}
+img:hover{
+    border-radius: 50px 50px 0px 50px;
+}

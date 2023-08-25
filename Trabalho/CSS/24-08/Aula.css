@@ -1,0 +1,43 @@
+Body{
+    background-image:url(Fundo.jfif);
+    /* background-repeat: no-repeat; */
+    background: size 100%;;
+    /* background-position: center; */
+    background-attachment: fixed;
+}
+p{
+    color:blanchedalmond;
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 35px; /* Faz paragrafo */
+    line-height: 26px; /* Espaçamento entre as linhas */
+    word-spacing: normal; /* Espaçamento entre as palavras */
+}
+p.titulo{
+    font-family: Arial, Helvetica, sans-serif; /* troca a fonte */
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    text-transform: uppercase;  /* Deixa tudo caixa alta*/
+    text-shadow: 5px 5px 5px white;
+    text-decoration: overline underline;
+
+    /* letter-spacing: 50px; espaçamento entre as letras */
+}
+.titulo:hover{
+    text-decoration: none;
+}
+img{
+    width: 280px;
+    height: auto;
+}
+img:hover{
+    border-radius: 50px;
+}
+.imagem{
+    text-align: center;
+}
+table{
+    width: 280px;
+    height: 280px;
+}
